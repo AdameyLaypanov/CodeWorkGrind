@@ -1,10 +1,7 @@
 import os
 import re
 
-# Укажите полный путь к директории с файлами
 path = r'D:\A_Local_reps\CodeWorkGrind\LeetCode\Easy'
-
-# Получаем список файлов в директории
 files = os.listdir(path)
 
 # Функция для получения числового префикса из имени файла
