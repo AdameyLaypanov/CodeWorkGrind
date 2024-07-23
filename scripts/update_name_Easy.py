@@ -2,7 +2,7 @@ import os
 import re
 
 # Укажите полный путь к директории с файлами
-path = r'D:\A_Local_reps\CodeWorkGrind\LeetCode\Easy'
+path = r'D:\A_Local_reps\CodeWorkGrind\LeetCode\Medium\Suffix_Sum'
 
 # Получаем список файлов в директории
 files = os.listdir(path)

@@ -1,7 +1,7 @@
 import os
 import re
 
-path = r'D:\A_Local_reps\CodeWorkGrind\LeetCode\Easy'
+path = r'D:\A_Local_reps\CodeWorkGrind\LeetCode\Easy\Suffix_Sum'
 files = os.listdir(path)
 
 # Функция для получения числового префикса из имени файла
