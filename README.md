@@ -1,2 +1,2 @@
 # CodeWorkGrind
-Storage of my attempts solving LeetCode, CodeForces, CodeRun, KaggleChampionships and so on ;)
+some solutions to some problems to leetcode and other stuff
